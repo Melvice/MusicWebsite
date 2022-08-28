@@ -155,7 +155,7 @@ i.fa-step-backward{
 
 }
 
-.loader{ /* how to put the loader inside the wrapper so that it is still visible? lowering the width make it disappear -- to resolve*/
+.loader{ /* how to put the loader inside the wrapper so that it is still visible? lowering the width make it disappear -- problem to resolve*/
   height: 90px;
   display: flex;
   justify-content: center;
